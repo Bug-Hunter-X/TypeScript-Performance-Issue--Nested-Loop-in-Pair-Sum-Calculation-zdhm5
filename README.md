@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue in TypeScript involving nested loops. The original code calculates all pair sums of numbers in an array, but its nested loop structure leads to O(n^2) time complexity. The solution provides an optimized approach to reduce time complexity.
